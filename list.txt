@@ -1,5 +1,5 @@
-1. Gönderi atma
+1. Yorum atma
 2. Gönderi beğenme
-3. Yorum atma
+3. Gönderi atma
 4. Yorum beğenme
 5. Profil görüntüleme
