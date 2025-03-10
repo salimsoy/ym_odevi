@@ -2,3 +2,4 @@
 2. Gönderi beğenme
 3. Yorum atma
 4. Yorum beğenme
+5. Profil görüntüleme
