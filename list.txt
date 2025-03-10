@@ -1,0 +1,4 @@
+1. Gönderi atma
+2. Gönderi beğenme
+3. Yorum atma
+4. Yorum beğenme
